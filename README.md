@@ -1,2 +1,5 @@
-# hello-world
-Hello World GitHub Projekt im Rahmen der DataSience Vorlesung bei Prof. von Schwerin an der HS Ulm
+# Mein Alter Ego "E.Lmo"
+
+---
+Die Suche nach einem Usernamen für eine Online-Platform wurde dieser, gar sehr kreativer Alter Ego, E.Lmo erschaffen. Bis die Tage keine Frage.
+---
